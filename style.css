@@ -1,0 +1,16 @@
+.Aboutme-heading{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 120px;
+}
+.textaboutme{
+    display: flex;
+    justify-content: center;
+}
+.w3l-content-6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400px;
+}
